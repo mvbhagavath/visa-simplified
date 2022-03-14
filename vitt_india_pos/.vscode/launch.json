@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter-dev",
+      "type": "dart",
+      "request": "launch",
+      "args": [
+        "-t",
+        "lib/main_dev.dart",
+        "--flavor",
+        "dev"
+      ],
+    },
+    {
+      "name": "Flutter-prod",
+      "type": "dart",
+      "request": "launch",
+      "args": [
+        "-t",
+        "lib/main_prod.dart",
+        "--flavor",
+        "prod"
+      ],
+    },
+    {
+      "name": "Flutter-prof",
+      "type": "dart",
+      "request": "launch",
+      "args": [
+        "-t",
+        "lib/main_prod.dart",
+        "--flavor",
+        "prof",
+        "--profile"
+      ],
+    },
+  ]
+}
