@@ -1,0 +1,183 @@
+{
+  "name": "Vignesh Bhagavath",
+  "initials": "VB",
+  "showInitialsInHeader": true,
+  "description": "Your friendly neighborhood frontend developer, UX architect, and JavaScript engineer I like to craft solid and scalable frontend products with great user experiences.",
+  "profileImage": "profile.jpg",
+  "headerLinks": ["Know Me", "My Work", "Get In Touch"],
+  "knowMeSection": {
+    "title": "Wait a minute. Who Am I?",
+    "content": "I am a Experience Technologist who loves to build clean and effective web apps that would help both businesses and their users.<br /><br />Started my career at one of the major digital business transformation organization, Publicis Sapient. It is here that I evolved and took my initial steps in the world of web apps. Known for its cutting edge technology work, it is here that I got to work with wide range of technologies for clients across multiple domains.I enjoyed a great deal working at Publicis Sapient for almost 6 years before venturing out into the world of startups.<br /><br /> After my successful stint at Publicis Sapient, I was presented with a hard to refuse opportunity to join the founding team at Vitt India, a fintech startup. In the growing space of digital payments in India, Vitt India aimed to provide merchants with product to better manage their businesses unlike before. This role gave me a chance to architect the frontend application and also expand my horizon by contributing to all aspects of the product development.",
+    "numberOfColumns": 2,
+    "isRightAligned": false,
+    "imageForCOlumn": ""
+  },
+  "myWorkSection": {
+    "title": "My Work",
+    "description": "Here are a few past personal and client projects I've worked on.",
+    "cardsPerRow": 3,
+    "workList": [
+      {
+        "name": "Vitt India Dashboard",
+        "workImage": "vittindia-dashboard.png",
+        "year": "2023",
+        "description": "Vitt India is a fintech startup that works around solutions for merchant in the space of offline payment.<br/> <br/> The Vitt India Merchant Dashboard is a web application that helps merchant visualize and manage their payment. Merchant can track transactions, view details, generate views based on various filters and manage multiple businesses all from single app.<br/><br/> This Dashboard was developed using Next.js with Redux for state management, TailwindCSS and Firebase for authentication and notifications.",
+        "rolesAndResponsibilities": "Architected the application and developed it",
+        "linkToProject": "https://dashboard.vittindia.com",
+        "github": "https://vittindia.com",
+        "playstore": "https://vittindia.com",
+        "appleStore": "https://vittindia.com",
+        "skillsAndTools": [
+          {
+            "name": "HTML",
+            "icon": "html.svg"
+          },
+          {
+            "name": "CSS",
+            "icon": "css3.svg"
+          },
+          {
+            "name": "React",
+            "icon": "react.svg"
+          },
+          {
+            "name": "Javascript",
+            "icon": "javascript.svg"
+          },
+          {
+            "name": "Next.js",
+            "icon": "nextjs.svg"
+          },
+          {
+            "name": "TailwindCSS",
+            "icon": "tailwindcss.svg"
+          }
+        ]
+      },
+      {
+        "name": "Vitt India",
+        "workImage": "vittindia.png",
+        "year": "2022",
+        "description": "Vitt India is a fintech startup that works around solutions for merchant in the space of offline payment.<br/> <br/> This website was developed for the flagship product, a mobile app, and highlight the features that would help merchants keep track of transactions in a more efficient and simplified manner. This site also involved product docs that would provide in depth details of the features, support documents - aimed to improve the user experience and api documentation for third party integrations.<br/><br/> This is a responsive site that was developed using Next.js and TailwindCSS. The product docs was developed taking inspiration from an open source project while customizing it to meet the business requirements. The api documentation was developed using Redocly.",
+        "linkToProject": "https://vittindia.com",
+        "github": "https://vittindia.com",
+        "playstore": "https://vittindia.com",
+        "appleStore": "https://vittindia.com",
+        "skillsAndTools": [
+          {
+            "name": "HTML",
+            "icon": "html.svg"
+          },
+          {
+            "name": "CSS",
+            "icon": "css3.svg"
+          },
+          {
+            "name": "React",
+            "icon": "react.svg"
+          },
+          {
+            "name": "Javascript",
+            "icon": "javascript.svg"
+          },
+          {
+            "name": "Next.js",
+            "icon": "nextjs.svg"
+          },
+          {
+            "name": "TailwindCSS",
+            "icon": "tailwind.svg"
+          }
+        ]
+      },
+      {
+        "name": "Vitt India Merchant App",
+        "workImage": "vittindia-dashboard.png",
+        "year": "2022",
+        "description": "Vitt India is a fintech startup that works around solutions for merchant in the space of offline payment.<br/> <br/> The Vitt India Merchant App is a mobile application that helps merchant visualize payment and manage their businesses. Merchant can track transactions, view details, generate views based on various filters and manage staff, multiple businesses all from single app.<br/><br/> This app was developed using Flutter and Firebase for authentication and notifications.",
+        "rolesAndResponsibilities": "Architected the application and developed it",
+        "linkToProject": "https://dashboard.vittindia.com",
+        "github": "https://vittindia.com",
+        "playstore": "https://vittindia.com",
+        "appleStore": "https://vittindia.com",
+        "skillsAndTools": [
+          {
+            "name": "HTML",
+            "icon": "html.svg"
+          },
+          {
+            "name": "CSS",
+            "icon": "css3.svg"
+          },
+          {
+            "name": "React",
+            "icon": "react.svg"
+          },
+          {
+            "name": "Javascript",
+            "icon": "javascript.svg"
+          },
+          {
+            "name": "Next.js",
+            "icon": "nextjs.svg"
+          },
+          {
+            "name": "TailwindCSS",
+            "icon": "tailwind.svg"
+          }
+        ]
+      },
+      {
+        "name": "Hello World",
+        "workImage": "vittindia.png",
+        "year": "2024",
+        "description": "Hello World is a personal project that I have created to showcase my work. This is completely responsive and is developed using Svelte 3. <br/><br/>I intend to make this a boilerplate for portfolio development with some customization options for users to enhance the look and feel.",
+        "rolesAndResponsibilities": "Architected the application and developed it",
+        "linkToProject": "https://dashboard.vittindia.com",
+        "github": "https://vittindia.com",
+        "playstore": "https://vittindia.com",
+        "appleStore": "https://vittindia.com",
+        "skillsAndTools": [
+          {
+            "name": "HTML",
+            "icon": "html.svg"
+          },
+          {
+            "name": "CSS",
+            "icon": "css3.svg"
+          },
+          {
+            "name": "React",
+            "icon": "react.svg"
+          },
+          {
+            "name": "Javascript",
+            "icon": "javascript.svg"
+          },
+          {
+            "name": "Next.js",
+            "icon": "nextjs.svg"
+          },
+          {
+            "name": "TailwindCSS",
+            "icon": "tailwind.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "getInTouchSection": {
+    "title": "Get in touch",
+    "email": "abc@xyz.com",
+    "phone": "",
+    "description": "Need a beautiful, well structured and an easy to maintain website? Get in Touch",
+    "socials": {
+      "instagram": "https://instagram.com",
+      "linkedIn": "https://linkedin.com",
+      "gitHub": "https://github.com",
+      "x": "https://x.com",
+      "blog": "",
+      "facebook": "https://facebook.com"
+    }
+  }
+}
