@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { getSchengen } from "./format";
 
-const genAI = new GoogleGenerativeAI("AIzaSyDbKxg-gO1n8uJY_gCeIzEYXzykwbfcQ0I");
+const genAI = new GoogleGenerativeAI("");
 
 const getSchengenContent = async (userDetails: any) => {
   // The Gemini 1.5 models are versatile and work with both text-only and multimodal prompts
